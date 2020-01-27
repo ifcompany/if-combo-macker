@@ -1,6 +1,6 @@
 <h1>if Combo macker</h1>
 <br />
-<img src=""/>
+<img src="logocombo.gif"/>
 <br />
 <h2><a href="https://ifcompany.ir/apps/Python">link if</a></h2>
 <br />
